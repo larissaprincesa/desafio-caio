@@ -1,0 +1,27 @@
+body {
+            background-color: #0f0c16;
+            text-align: center;
+            margin: 0;
+            padding: 50px 20px;
+        }
+
+        h1 {
+            color: #ff007f;
+            font-size: 3rem;
+            margin-bottom: 10px;
+        }
+        h2{
+            color: #e701d4;
+            font-size: 30px;
+
+            }
+        img{
+            width: 50rem;
+        }
+        .texto {
+            padding: 23px 23px 35px 23px;
+            box-sizing: border-box;
+            border: 2px solid rgb(16, 18, 136);
+            color: #eb347ae8;
+            font-size: 20px;
+        }
